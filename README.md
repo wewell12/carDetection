@@ -52,7 +52,7 @@ Les images ci-dessous présentent des cas avec le label attribué par le modèle
 
 
 # IV - Application sur les images de trafic
-	Une fois le modèle entraîné, on va l’appliquer sur les images du second dataset, celles qui contiennent des images de véhicules dans le trafic.
+Une fois le modèle entraîné, on va l’appliquer sur les images du second dataset, celles qui contiennent des images de véhicules dans le trafic.
 
 Voici ci-dessous un schéma simple qui explique comment fonctionne l’algorithme:
 
